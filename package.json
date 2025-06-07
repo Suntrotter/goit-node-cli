@@ -1,0 +1,24 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suntrotter/goit-node-cli.git"
+  },
+  "keywords": [],
+  "author": "OLENA-DEYNEGA",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/suntrotter/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/suntrotter/goit-node-cli#readme",
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
+}
